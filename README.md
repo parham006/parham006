@@ -26,9 +26,9 @@ Hello! I’m **Parham**, a passionate developer who believes in the magic of col
 
 💻 **Tech Stack:**  
 - **Languages:** JavaScript, Python, HTML5, CSS3  
-- **Frameworks:** Django, React  
-- **Styling:** SASS, TailwindCSS  
-- **Tools:** jQuery, Adobe Photoshop  
+- **Frameworks:** Django,  
+- **Styling:** css, TailwindCSS  
+- **Tools:** jQuery, Adobe Photoshop , vscode 
 
 📊 **GitHub Stats:**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)  
