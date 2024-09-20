@@ -39,8 +39,8 @@ Hello! I’m **Parham**, a passionate developer who believes in the magic of col
 🛠️ **My Projects:**  
 Here are some of my favorite projects! Check them out:
 
-- [Project 1 todo](https://github.com/parham006/todo) - my first django project ✨  
-- [practice](https://github.com/parham006/pishgam) - i lrean python with this practice code 🌟  
+- [todo](https://github.com/parham006/todo) - my first django project ✨  
+- [practice](https://github.com/parham006/pishgam) - i learn python with this practice code 🌟  
 
 ---
 
